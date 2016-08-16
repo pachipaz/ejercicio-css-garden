@@ -1,0 +1,62 @@
+h1 {
+	color:#A51D06;
+	font-size: 30px;
+}
+
+h2{
+	color: #FF2C0A;
+	font-size: 20px;
+}
+
+h3{
+	color:#FF2C0A;
+	font-size: 15px;
+}
+p{
+	color:#220024;
+	font-size: 15px;
+	font-family: helvetica;
+
+}
+
+body {
+	background:black;
+
+}
+
+.summary {
+	background: #FFE2E0;
+	padding: 70px;
+}
+.preamble {
+	background: white;
+	padding:70px;
+}
+.explanation{
+	background: #E1FB64;
+	padding: 70px;
+}
+.participation {
+	background: #7BFCA2;
+	padding: 70px;
+}
+.benefits {
+	background: white;
+	padding: 70px;
+}
+.requirements{
+	background: #7BFCD1;
+	padding: 70px; 
+}
+
+footer{
+	margin-left: 150px;
+}
+a {
+	text-decoration: none;
+	color:#C5FCD1;
+}
+
+
+
+
